@@ -12,6 +12,6 @@ My love for Mathematics has always led my journey through education. First I was
 
 I had the chance to work on several Machine Learning projects, as a research intern or a student, and code in many languages such as Python, R, JAVA. I think I qualify as an adaptative person, both socially (getting along with people) and at work (research or operational work).
 
-## Contact
+# Contact
 
 Don't hesitate to contact me ! casellesdupre.hugo at gmail dot com
