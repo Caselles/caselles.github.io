@@ -1,4 +1,4 @@
-# Intro
+# Intro ![photo](https://github.com/Caselles/caselles.github.io/blob/master/photo_these.png)
 
 I am a first-year PhD candidate at ENSTA ParisTech (supervised by [David Filliat](http://perso.ensta-paristech.fr/~filliat/fr/)) and Softbank Robotics Europe (supervised by [Michaël Garcia-Ortiz](https://www.researchgate.net/profile/Michael_Garcia_Ortiz)), enrolled in a CIFRE contract. 
 
