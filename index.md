@@ -1,10 +1,10 @@
 # Intro
 
-I am a first-year PhD candidate at ENSTA ParisTech (supervised by [David Filliat](http://perso.ensta-paristech.fr/~filliat/fr/)) and Softbank Robotics Europe (supervised by [Michaël Garcia-Ortiz](https://www.researchgate.net/profile/Michael_Garcia_Ortiz)), enrolled in a CIFRE contract. 
+I am a first-year PhD candidate at the [Flowers Laboratory](https://flowers.inria.fr/) of ENSTA ParisTech and INRIA (supervised by [David Filliat](http://perso.ensta-paristech.fr/~filliat/fr/)) and Softbank Robotics Europe (supervised by [Michaël Garcia-Ortiz](https://www.researchgate.net/profile/Michael_Garcia_Ortiz)), enrolled in a CIFRE contract. 
 
 # Research
 
-My research focuses on Machine Learning and Reinforcement Learning for Robotics. 
+My research focuses on Machine Learning. In my PhD, I study model-based approaches for Reinforcement Learning. It involves Developmental Robotics and Computer Vision.
 
 # Background
 
